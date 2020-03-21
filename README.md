@@ -10,5 +10,6 @@ REST;
 https://docs.google.com/presentation/d/1GsJ2v-9sFbv1V_FLrPMDjr637KzQFa8geQUNNiTsjJI/edit
 
 -- LINKS --
+
 Tutorial de lista utilizando SQL;
 https://scotch.io/tutorials/getting-started-with-node-express-and-postgres-using-sequelize
