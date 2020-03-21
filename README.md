@@ -1,5 +1,6 @@
 # CRUD com Sequelize
-Atividade curricular para a criação um CRUD básico utilizando Sequelize.
+Criação de um lista de tarefas;
+CRUD básico utilizando Sequelize;
 
 # Material de Apoio:
 -- SLIDES --
