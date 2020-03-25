@@ -1,27 +1,28 @@
 {
-  "name": "CRUD-Sequelize",
+  "name": "CRUD-MONGOeSQL",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start:dev": "nodemon ./bin/www",
+    "start:dev": "nodemon src/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LucasAlvesGit/CRUD-Sequelize.git"
+    "url": "git+https://github.com/LucasAlvesGit/CRUD-MONGOeSQL.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LucasAlvesGit/CRUD-Sequelize/issues"
+    "url": "https://github.com/LucasAlvesGit/CRUD-MONGOeSQL/issues"
   },
-  "homepage": "https://github.com/LucasAlvesGit/CRUD-Sequelize#readme",
+  "homepage": "https://github.com/LucasAlvesGit/CRUD-MONGOeSQL#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
     "morgan": "^1.10.0",
+    "mysql2": "^2.1.0",
     "pg": "^7.18.2",
     "pg-hstore": "^2.3.3",
     "sequelize": "^5.21.5"
